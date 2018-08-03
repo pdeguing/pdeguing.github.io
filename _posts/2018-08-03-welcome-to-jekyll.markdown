@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Libft, building your own C library"
 date:   2018-08-03 12:29:20 -0700
 categories: jekyll update
 ---
