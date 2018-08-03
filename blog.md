@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog 
-date: 2018-08-01 13:00
+date: 2018-08-01 13:00:00 -0700
 permalink: /blog/
 ---
 {%- if site.posts.size > 0 -%}
