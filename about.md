@@ -10,7 +10,7 @@ I built this blog to share my advancement as I dive deeper into computer science
 
 There are 3 branches in the program: algorithms, graphics and Unix system. As I want to discover the low-end of operating systems and really like Unix philosophy, I'll jump into this last branch as soon as I can.
 
-You can find all my source codes on GitHub: [pdeguing](https://github.com/pdeguing?tab=repositories).
+You can find all my source codes on GitHub: [github.com/pdeguing](https://github.com/pdeguing?tab=repositories).
 
 After completing [EDHEC's](https://www.edhec.edu/) Bachelor in Business Administration in France, I left for Australia to see the world and be sure of what I wanted to achieve in life. Living in the Silicon Valley and contributing to the future is what drives me today.
 
