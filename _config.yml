@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: From Zero to C 
+author: Pierre-Quentin Deguingand
 email: pierrequentindeguingand@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
     I am a student at 42 Silicon Valley. I am learning C from scratch and work daily to become an excellent developer. I built this blog to share my advancement as I dive deeper into computer science.
