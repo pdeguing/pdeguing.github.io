@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Libft"
-date: 2018-08-03 12:00:00 -0700
+title:  "Libft"
+date:   2018-08-03 12:00:00 -0700
 categories: 42
 ---
 Libft is the first project to complete after becoming a cadet at 42. The aim of the project is to code some functions from the C standard library and other specific functions that we will need to complete projects in the future. It is important to note that for the majority of the curriculum, we are not allowed to use standard libraries and must rely on our own Libft.
