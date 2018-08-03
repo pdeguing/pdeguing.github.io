@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Keep it simple, stupid 
+title: From Zero to C 
 email: pierrequentindeguingand@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
     I am a student at 42 Silicon Valley. I am learning C from scratch and work daily to become an excellent developer. I built this blog to share my advancement as I dive deeper into computer science. I plan to upload a debrief for each project I complete within 42’s curriculum.
