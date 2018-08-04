@@ -17,7 +17,6 @@ _Sept 2013 – Nov 2017 / Nice, France_
 
 Digital Business. Academic Exchange at Sheffield Hallam University, UK. Multinational group work. Project management. Winner of the Creativity Workshop. Google AdWords certifications.
 
-
 # Work Experience
 
 __Digital Business Intern__, Twinz Products, SA.

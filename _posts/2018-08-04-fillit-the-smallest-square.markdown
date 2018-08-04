@@ -1,4 +1,4 @@
 ---
 layout: post
-title:  "Fillit, finding the smallest square to fit tetrominos"
+title:  "fillit, finding the smallest square to fit tetrominos"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Libft, building your own C library"
+title:  "libft, building your own C library"
 ---
 Libft is the first project to complete after becoming a cadet at 42. The aim of the project is to code some functions from the C standard library and other specific functions that we will need to complete projects in the future. It is important to note that for the majority of the curriculum, we are not allowed to use standard libraries and must rely on our own Libft.
 
