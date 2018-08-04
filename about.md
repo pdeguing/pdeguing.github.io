@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 I am a student at [42 Silicon Valley](https://www.42.us.org/). I am learning C from scratch and work daily to become an excellent developer. 
 
 I built this blog to share my advancement as I dive deeper into computer science. I plan to upload a debrief for each project I complete within 42's curriculum.
