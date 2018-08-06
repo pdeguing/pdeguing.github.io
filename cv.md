@@ -5,6 +5,12 @@ permalink: /cv/
 ---
 # Formation
 
+__Software Engineering__, 42 Silicon Valley.
+
+_July 2018 - Preset / Fremont, California_
+
+Learning programmation in C following a project based curriculum. Developping a wide skillset in computer science.
+
 __Bachelor in Business Administration__, EDHEC Business School.
 
 _Sept 2013 – Nov 2017 / Nice, France_
