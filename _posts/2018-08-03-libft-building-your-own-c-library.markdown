@@ -91,6 +91,8 @@ Part 2 - Additional functions:
 * __Return value:__ None
 * __Libc functions:__ write(2)
 
+[https://github.com/pdeguing/libft/blob/master/ft_putchar.c](https://github.com/pdeguing/libft/blob/master/ft_putchar.c)
+
 {% highlight c %}
 #include "libft.h"
 
@@ -100,6 +102,34 @@ void	ft_putchar(char c)
 }
 {% endhighlight %}
 
-This is probably the simplest function in libft. It's important to include `unistd.h` in your header file as we need to use _write(2)_. It will write to the standard output, specified by `1`, the character stocked at the address `&c`, the number of character being written being `1`.
+This is probably the simplest function in libft. It's important to include `<unistd.h>` in your header file as we need to use _write(2)_. It will write to the standard output, specified by `1`, the character stocked at the address `&c`, the number of character being written being `1`.
 
 [Back to index](#implementation)
+
+### ft_putstr
+
+* __Description:__ Outputs the string _s_ to the standard output
+* __Param. #1:__ The string to output
+* __Return value:__ None
+* __Libc functions:__ write(2)
+
+[https://github.com/pdeguing/libft/blob/master/ft_putstr.c](https://github.com/pdeguing/libft/blob/master/ft_putstr.c)
+
+{% highlight c %}
+#include "libft.h"
+
+void	ft_putstr(char const *s)
+{
+	int	i;
+
+	i = 0;
+	while (s[i] != '\0')
+	{
+		ft_putchar(s[i]);
+		i++;
+	}
+}
+{% endhighlight %}
+
+[Back to index](#implementation)
+
