@@ -59,9 +59,43 @@ Part 1 - Libc functions:
 
 Part 2 - Additional functions:
 
+* [ft_memalloc](#ft_memalloc)
+* [ft_memdel](#ft_memdel)
+* [ft_strnew](#ft_strnew)
+* [ft_strdel](#ft_strdel)
+* [ft_strclr](#ft_strclr)
+* [ft_striter](#ft_striter)
+* [ft_striteri](#ft_striteri)
+* [ft_strmap](#ft_strmap)
+* [ft_strmapi](#ft_ft_strmapi)
+* [ft_strequ](#ft_strequ)
+* [ft_strnequ](#ft_strnequ)
+* [ft_strsub](#ft_strsub)
+* [ft_strjoin](#ft_strjoin)
+* [ft_strtrim](#ft_strtrim)
+* [ft_strsplit](#ft_strsplit)
+* [ft_itoa](#ft_itoa)
 * [ft_putchar](#ft_putchar)
 * [ft_putstr](#ft_putstr)
 * [ft_putendl](#ft_putendl)
 * [ft_putnbr](#ft_putnbr)
+* [ft_putchar_fd](#ft_putchar_fd)
+* [ft_putstr_fd](#ft_putstr_fd)
+* [ft_putendl_fd](#ft_putendl_fd)
+* [ft_putnbr_fd](#ft_putnbr_fd)
 
 ### ft_putchar
+
+_Description:_ Outputs the character __c__ to the standard output
+_Param. #1:_ The character to output
+_Return value:_ None
+_Libc functions:_ write(2)
+
+~~~ c
+#include "libft.h"
+
+void	ft_putchar(char c)
+{
+	write(1, &c, 1);
+}
+~~~
