@@ -91,11 +91,11 @@ _Param. #1:_ The character to output
 _Return value:_ None
 _Libc functions:_ write(2)
 
-~~~ c
+{% highlight c linenos %}
 #include "libft.h"
 
 void	ft_putchar(char c)
 {
 	write(1, &c, 1);
 }
-~~~
+{% endhighlight %}
