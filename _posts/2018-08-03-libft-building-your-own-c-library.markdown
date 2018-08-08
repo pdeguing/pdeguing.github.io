@@ -2,6 +2,8 @@
 layout: post
 title:  "libft, building your own C library"
 ---
+## Introduction
+
 Libft is the first project you have to complete after becoming a cadet at 42. The aim of the project is to code some functions from the C standard library and other specific functions that we will need to complete projects in the future. It is important to note that for the majority of the curriculum, we are not allowed to use standard libraries and must rely on our own Libft.
 
 Here is a link to the full subject for this project: [libft.en.pdf](https://github.com/pdeguing/libft/blob/master/libft.en.pdf).
@@ -24,7 +26,7 @@ As I focus on developing the ability to work daily with extended period of deep 
 
 ## Implementation
 
-* [ft_putchar()](#ft_putchar)
+* [ft_putchar](#ft_putchar)
 
 
-### <a name="ft_putchar"></a> ft_putchar()
+### ft_putchar
