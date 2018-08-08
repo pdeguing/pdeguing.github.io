@@ -10,7 +10,7 @@ Here is a link to the full subject for this project: [libft.en.pdf](https://gith
 
 And here is a link to the entire GitHub repository: [pdeguing/libft](https://github.com/pdeguing/libft).
 
-## Context & Approach
+## Approach
 
 This project is quite wide as it requires you to write more than 50 functions. You can add your own functions on top of that as a bonus. If you are currently working on Libft, I would recommend you to split the biggest functions like `ft_strsplit()` into many usefull smaller functions such as `ft_countwords()` to count the number of words etc.
 
@@ -26,7 +26,42 @@ As I focus on developing the ability to work daily with extended period of deep 
 
 ## Implementation
 
-* [ft_putchar](#ft_putchar)
+Part 1 - Libc functions:
 
+* [ft_memset](#ft_memset)
+* [ft_bzero](#ft_bzero)
+* [ft_memcpy](#ft_memcpy)
+* [ft_memccpy](#ft_memccpy)
+* [ft_memmove](#ft_memmove)
+* [ft_memchr](#ft_memchr)
+* [ft_memcmp](#ft_memcmp)
+* [ft_strlen](#ft_strlen)
+* [ft_strdup](#ft_strdup)
+* [ft_strcpy](#ft_strcpy)
+* [ft_strncpy](#ft_strncpy)
+* [ft_strcat](#ft_strcat)
+* [ft_strncat](#ft_strncat)
+* [ft_strlcat](#ft_strlcat)
+* [ft_strchr](#ft_strchr)
+* [ft_strrchr](#ft_strrchr)
+* [ft_strstr](#ft_strstr)
+* [ft_strnstr](#ft_strnstr)
+* [ft_strcmp](#ft_strcmp)
+* [ft_strncmp](#ft_strncmp)
+* [ft_atoi](#ft_atoi)
+* [ft_isalpha](#ft_isalpha)
+* [ft_isdigit](#ft_isdigit)
+* [ft_isalnum](#ft_isalnum)
+* [ft_isascii](#ft_isascii)
+* [ft_isprint](#ft_isprint)
+* [ft_toupper](#ft_toupper)
+* [ft_tolower](#ft_tolower)
+
+Part 2 - Additional functions:
+
+* [ft_putchar](#ft_putchar)
+* [ft_putstr](#ft_putstr)
+* [ft_putendl](#ft_putendl)
+* [ft_putnbr](#ft_putnbr)
 
 ### ft_putchar
