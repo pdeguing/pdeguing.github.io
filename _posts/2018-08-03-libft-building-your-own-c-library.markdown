@@ -86,10 +86,10 @@ Part 2 - Additional functions:
 
 ### ft_putchar
 
-Description: Outputs the character __c__ to the standard output
-Param. #1: The character to output
-Return value: None
-Libc functions: write(2)
+* __Description:__ Outputs the character _c_ to the standard output
+* __Param. #1:__ The character to output
+* __Return value:__ None
+* __Libc functions:__ write(2)
 
 {% highlight c %}
 #include "libft.h"
@@ -99,3 +99,5 @@ void	ft_putchar(char c)
 	write(1, &c, 1);
 }
 {% endhighlight %}
+
+This is probably the simplest function in libft. It's important to include `unistd.h` in your header file as we need to use write(2). It will write to the standard output, specified by _1_, the character stocked at the address of _c_, the number of character being written being _1_.
