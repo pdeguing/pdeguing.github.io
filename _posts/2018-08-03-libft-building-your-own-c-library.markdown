@@ -100,4 +100,6 @@ void	ft_putchar(char c)
 }
 {% endhighlight %}
 
-This is probably the simplest function in libft. It's important to include `unistd.h` in your header file as we need to use write(2). It will write to the standard output, specified by _1_, the character stocked at the address of _c_, the number of character being written being _1_.
+This is probably the simplest function in libft. It's important to include `unistd.h` in your header file as we need to use _write(2)_. It will write to the standard output, specified by `1`, the character stocked at the address `&c`, the number of character being written being `1`.
+
+[Back to index](#implementation)
