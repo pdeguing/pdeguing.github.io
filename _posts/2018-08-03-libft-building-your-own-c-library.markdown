@@ -86,12 +86,12 @@ Part 2 - Additional functions:
 
 ### ft_putchar
 
-_Description:_ Outputs the character __c__ to the standard output
-_Param. #1:_ The character to output
-_Return value:_ None
-_Libc functions:_ write(2)
+Description: Outputs the character __c__ to the standard output
+Param. #1: The character to output
+Return value: None
+Libc functions: write(2)
 
-{% highlight c linenos %}
+{% highlight c %}
 #include "libft.h"
 
 void	ft_putchar(char c)
