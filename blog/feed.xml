@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>From zero to C Blog</title>
+        <link>https://pdeguing.github.io/from-zero-to-c/blog</link>
+        <description>The best place to stay up-to-date with the latest From zero to C news and events.</description>
+        <lastBuildDate>Mon, 10 Sep 2018 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>From zero to C Blog</title>
+            <url>https://pdeguing.github.io/from-zero-to-c/</url>
+            <link>https://pdeguing.github.io/from-zero-to-c/blog</link>
+        </image>
+        <copyright>Copyright © 2018 From zero to C</copyright>
+        <item>
+            <title><![CDATA[From zero to C]]></title>
+            <link>https://pdeguing.github.io/from-zero-to-c/blog/2018/09/10/from-zero-to-c.html</link>
+            <guid>https://pdeguing.github.io/from-zero-to-c/blog/2018/09/10/from-zero-to-c.html</guid>
+            <pubDate>Mon, 10 Sep 2018 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p><em>This post is originally a comment that I wrote on Reddit without much thoughts. But in light of the surprising feedback it had, I decided that it might be a good introduction to this blog. Here is the original post: <a href="https://www.reddit.com/r/webdev/comments/9efahz/i_quit_gaming_for_programming/">Reddit</a>.</em></p> <hr> <p>My friend and I got the s...</p>]]></description>
+        </item>
+    </channel>
+</rss>
