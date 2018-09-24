@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://pdeguing.github.io/from-zero-to-c/blog</id>
+    <id>https://pdeguing.github.io/blog</id>
     <title>From zero to C Blog</title>
     <updated>2018-09-10T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
-    <link rel="alternate" href="https://pdeguing.github.io/from-zero-to-c/blog"/>
+    <link rel="alternate" href="https://pdeguing.github.io/blog"/>
     <subtitle>The best place to stay up-to-date with the latest From zero to C news and events.</subtitle>
-    <logo>https://pdeguing.github.io/from-zero-to-c/</logo>
+    <logo>https://pdeguing.github.io/</logo>
     <rights>Copyright © 2018 From zero to C</rights>
     <entry>
         <title type="html"><![CDATA[From zero to C]]></title>
-        <id>https://pdeguing.github.io/from-zero-to-c/blog/2018/09/10/from-zero-to-c.html</id>
-        <link href="https://pdeguing.github.io/from-zero-to-c/blog/2018/09/10/from-zero-to-c.html">
+        <id>https://pdeguing.github.io/blog/2018/09/10/from-zero-to-c.html</id>
+        <link href="https://pdeguing.github.io/blog/2018/09/10/from-zero-to-c.html">
         </link>
         <updated>2018-09-10T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p><em>This post is originally a comment that I wrote on Reddit without much thoughts. But in light of the surprising feedback it had, I decided that it might be a good introduction to this blog. Here is the original post: <a href="https://www.reddit.com/r/webdev/comments/9efahz/i_quit_gaming_for_programming/">Reddit</a>.</em></p> <hr> <p>My friend and I got the s...</p>]]></summary>
